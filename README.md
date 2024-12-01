@@ -2,19 +2,27 @@
 
 ### A Student Software Developer from Miami, FL!  
 ---
-
+<div style="float: right; margin-left: 20px;">
+  <img src="https://raw.githubusercontent.com/Norky101/Norky101/refs/heads/main/GitBackground.webp" alt="GitHub Profile Image" width="400"/>
+</div>
+<p>
 ### 🎓 **Computer Science Major @ Florida International University**  
 
 📅 **Class of 2025** | 🎉 **Dean’s List (6x)**  
-- 💻 **Past Roles**: DevOps @ ADT Security | SWE @ NetApp | SWE @ FAU | SWE @ MDCRC  
-- 🧠 **Google Tech Exchange Scholar, Apple Pathway Fellow, Excell With Dell Fellow**  
+- 💻 **Past Roles**: 
+  <img src="https://path_to_adt_logo.png" alt="ADT Security" width="40" height="40"/> DevOps Intern @ ADT Security | 
+  <img src="https://path_to_netapp_logo.png" alt="NetApp" width="40" height="40"/> SWE Intern @ NetApp | 
+  <img src="https://path_to_fau_logo.png" alt="FAU" width="40" height="40"/> SWE Intern @ FAU | 
+  <img src="https://path_to_mdcrc_logo.png" alt="MDCRC" width="40" height="40"/> SWE Intern @ MDCRC  
+- 🧠 **Industry Education**: 
+  <img src="https://path_to_google_logo.png" alt="Google Tech Exchange" width="40" height="40"/> Google Tech Exchange Scholar | 
+  <img src="https://path_to_apple_logo.png" alt="Apple Pathway Fellow" width="40" height="40"/> Apple Pathway Fellow | 
+  <img src="https://path_to_dell_logo.png" alt="Excell With Dell Fellow" width="40" height="40"/> Excell With Dell Fellow | 
+  <img src="https://path_to_microsoft_logo.png" alt="Microsoft Technical Resilience" width="40" height="40"/> Microsoft Technical Resilience Mentee
 - 🏆 **3rd Place**: JPMorgan Chase Data 4 Good Hackathon
 
 ✨**Goal**: Help build products that make the world happier and more enjoyable!  
 ⚡ **Fun fact**: I founded a social dog-walking community called 🐕 [**Miami Canine Crew**](https://www.instagram.com/caninecrewmiami/).  
-
-<p align="right">
-  <img src="[URL_OF_YOUR_IMAGE](https://raw.githubusercontent.com/Norky101/Norky101/refs/heads/main/GitBackground.webp)" alt="GitHub Profile Image" width="400" />
 </p>
 
 ---
