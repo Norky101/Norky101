@@ -39,14 +39,6 @@
 📧 **Email**: npilk001@fiu.edu  
 
 ---
-### 🏢 **Companies I’ve Collaborated With**  
-<p>
-  <img src="https://icon2.cleanpng.com/20180218/rwq/kisspng-nyse-adt-security-services-corporation-company-adt-logo-5a89d333304aa7.8213558315189819391978.jpg" alt="ADT Security" width="60" height="60" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/Norky101/Norky101/main/NetApp.png" alt="NetApp" width="60" height="60" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/Norky101/Norky101/main/fau.png" alt="FAU" width="60" height="60" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/Norky101/Norky101/main/mdc.webp" alt="MDCRC" width="60" height="60" style="margin-right: 10px;"/>
-</p>
-https://icon2.cleanpng.com/20180218/rwq/kisspng-nyse-adt-security-services-corporation-company-adt-logo-5a89d333304aa7.8213558315189819391978.jpg
 ### 🛠 **Languages and Tools**  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>  
