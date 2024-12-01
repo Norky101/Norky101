@@ -14,7 +14,7 @@
 ⚡ **Fun fact**: I founded a social dog-walking community called 🐕 [**Miami Canine Crew**](https://www.instagram.com/caninecrewmiami/).  
 
 <p align="right">
-  <img src="URL_OF_YOUR_IMAGE" alt="GitHub Profile Image" width="400" />
+  <img src="[URL_OF_YOUR_IMAGE](https://raw.githubusercontent.com/Norky101/Norky101/refs/heads/main/GitBackground.webp)" alt="GitHub Profile Image" width="400" />
 </p>
 
 ---
