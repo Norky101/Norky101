@@ -69,4 +69,4 @@
 
 ---
 
-### **Check out some of my projects below ⬇**
+### **Check out some of my projects below ⬇ :)**
