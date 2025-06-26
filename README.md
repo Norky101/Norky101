@@ -1,7 +1,7 @@
 <div align="center">
   <h1 style="margin-bottom: 0px;"><b>🐛 Welcome to Wonderland! 🐛</b></h1>
   <h6 style="margin-top: 0px; margin-bottom: 0px;"><b>AKA</b></h6>
-  <h3 style="margin-top: 0px;"><b>My life as a CS student at FIU pursuing my big dreams of helping build a better world!</b></h3>
+  <h3 style="margin-top: 0px;"><b>🇺🇸My life as a CS student at FIU pursuing my big dreams of helping build a better world!🇺🇸</b></h3>
 </div>
 
 📅 **Class of 2025** | 🎉 **Dean’s List (6x)**  
