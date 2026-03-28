@@ -6,6 +6,10 @@
 
 📅 **Class of 2025** | 🎉 **Dean’s List (6x)**  
 
+🅾️ **Current Position**: 
+- SWE at Oracle OCI in Corporate Networking 
+- Bringing AI to OCI Corporate Networking
+- 
 💻 **Past Experience**: 
 - DevOps Engineer Intern @ ADT Security
 - SWE Intern @ NetApp
