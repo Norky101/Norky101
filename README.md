@@ -4,13 +4,10 @@
   <h3 style="margin-top: 0px;"><b>🇺🇸My life as a CS student at FIU pursuing my big dreams of helping build a better world!🇺🇸</b></h3>
 </div>
 
-📅 **Class of 2025** | 🎉 **Dean’s List (6x)**  
+✨ **Goal**: Help build products that make the world happier and more enjoyable!  
 
-🅾️ **Current Position**: 
-- SWE at Oracle OCI in Corporate Networking 
-- Bringing AI to OCI Corporate Networking
-  
 💻 **Past Experience**: 
+- SWE at Oracle OCI in Corporate Networking 
 - DevOps Engineer Intern @ ADT Security
 - SWE Intern @ NetApp
 - SWE Intern @ FAU
@@ -24,9 +21,9 @@
 
 🏆 **3rd Place**: JPMorgan Chase Data 4 Good Hackathon
 
+📅 **Class of 2025** | 🎉 **Dean’s List (6x)**  
 ---
 
-✨ **Goal**: Help build products that make the world happier and more enjoyable!  
 ⚡ **Fun fact**: I founded a social dog-walking community called 🐕 [**Miami Canine Crew**](https://www.instagram.com/caninecrewmiami/).  
 </p>
 
