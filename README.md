@@ -51,12 +51,6 @@
 </p>  
 
 ---
-
-### 🌟 **What I'm Working On**  
-- 🚀 Building **AI-powered tools** to simplify everyday life.  
-- 📚 Learning **JavaScript** and advancing in **full-stack development**.  
-- 🌍 Exploring **Cloud solutions** for scalable development.  
-
 ---
 
 ### 🌐 **Connect With Me**  
@@ -64,9 +58,7 @@
   <a href="https://www.linkedin.com/in/noah-pilkington/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-</p>
-
-📧 **Email**: npilk001@fiu.edu  
+</p>  
 
 ---
 
