@@ -9,7 +9,7 @@ I recently worked at **Oracle** in Corporate Networking, where I helped build au
 ## Experience
 - Software Engineer, **Oracle**
 - DevOps Engineer Intern, **ADT Security**
-- Software Engineer Intern, **NetApp**
+- Software Engineer Applied AI Intern, **NetApp**
 - Machine Learning Software Engineer Intern, **Florida Atlantic University**
 - Software Engineer Intern, **MDCRC**
 
