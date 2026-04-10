@@ -26,10 +26,12 @@ I recently worked at **Oracle** in Corporate Networking, where I helped build au
 Build practical products that make life better, more efficient, and more enjoyable.
 
 ## Tech
-**Languages:** Python, Java, SQL, JavaScript, TypeScript  
-**Frameworks/Tools:** React, Next.js, Flask, Docker, Kubernetes, Git  
-**Cloud/Infra:** OCI, Google Cloud Platform  
-**Other:** Pandas, Linux, Postman, Bitbucket
+- **Programming Languages:** Python, Java, Groovy, TypeScript, JavaScript, SQL, Bash 
+- **AI / ML & LLM Systems:** RAG pipelines, LLM orchestration, OpenAI, Claude, Gemini, Cohere, NLP (SpaCy, Scikit-learn), prompt engineering 
+- **Frameworks & Libraries:** React, Next.js, Node.js, Flask, Django, Jinja2, Pandas, NumPy 
+- **Cloud & Infrastructure:** Oracle Cloud Infrastructure, Google Cloud Platform, Docker, Kubernetes, Terraform, Jenkins 
+- **Databases:** MySQL, BigQuery, Oracle Autonomous Database 
+- **Specializations:** Applied AI, Backend Systems, Automation, Distributed Systems, Network Automation, System Design 
 
 ## Fun Facts
 I founded a social dog-walking community called **Miami Canine Crew**.
