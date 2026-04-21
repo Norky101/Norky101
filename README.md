@@ -14,7 +14,8 @@ I like working at the intersection of **engineering, operations, and real-world 
 
 ## Experience
 
-- **Software Engineer** — Oracle  
+- **Software Engineer** — Oracle
+- **Founding Software Engineer** — Healthtech StartUp
 - **DevOps Engineer Intern** — ADT Security
 - **Tech Exchange Scholar** - Google 
 - **Software Engineer, Applied AI Intern** — NetApp  
